@@ -1,0 +1,8 @@
+{
+  "name": "유튜브 크리에이터 올인원 툴킷(20260115)신뢰도완벽(굿)",
+  "description": "조사부터 대본 작성, 이미지 생성, 썸네일 제작까지 유튜브 콘텐츠 제작의 모든 과정을 자동화하는 전문 툴킷입니다.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
